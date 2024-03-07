@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921127261831",
+    "project_id": "cui-chat",
+    "storage_bucket": "cui-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921127261831:android:15455bd1f89dec02db4a22",
+        "android_client_info": {
+          "package_name": "com.example.cuichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHZBwX_nh6wFARpiukTCkoFjfi2DxPzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
